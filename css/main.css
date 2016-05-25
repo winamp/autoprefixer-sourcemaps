@@ -1,0 +1,11 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef; }
+
+#board {
+  position: absolute;
+  text-align: right; }
+  #board a {
+    color: red; }
+
+/*# sourceMappingURL=map/main.css.map */
